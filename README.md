@@ -4,7 +4,7 @@ A cool, dark theme for [Omarchy](https://omarchy.org), built around pale blue
 foregrounds over a near-black background, with muted blue accents and soft
 magenta tones.
 
-![Neptune preview](assets/screenshot.png)
+![Neptune preview](preview.png)
 
 ## Wallpapers
 
@@ -12,7 +12,7 @@ Four wallpapers included with the theme. Click any one for the full image.
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="backgrounds/jap-water.png"><img src="backgrounds/jap-water.png" alt="Japanese water wallpaper"></a></td>
+<td width="50%" align="center"><a href="backgrounds/jap-water.webp"><img src="backgrounds/jap-water.webp" alt="Japanese water wallpaper"></a></td>
 <td width="50%" align="center"><a href="backgrounds/mountains.jpg"><img src="backgrounds/mountains.jpg" alt="Mountains wallpaper"></a></td>
 </tr>
 <tr>
